@@ -1,1 +1,24 @@
+
+
 console.log("Hello, World!");
+
+
+.env.local file ka RAZORPAY_KEY_ID=rzp_live_LaKy8uYkCmd4G1
+
+
+RAZORPAY_KEY_SECRET=sp3qiRK7DdRyJM10wqFMe2Sc
+
+
+NEXT_PUBLIC_RAZORPAY_KEY_ID=rzp_live_LaKy8uYkCmd4G1
+
+CLOUDINARY_CLOUD_NAME=dbmv8xt5w
+CLOUDINARY_API_KEY=589796383523534
+CLOUDINARY_API_SECRET=oP9qmOZMNH3zw-jnmktJnOoKQTE
+
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+EMAIL_USER=rakeshgupta136a@gmail.com
+EMAIL_PASS=gqrtquffshdylnqi
+
+
+SHIPROCKET_EMAIL=rakeshgupta1361411@gmail.com
+SHIPROCKET_PASSWORD=XXXXXXXXXX
